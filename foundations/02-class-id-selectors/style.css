@@ -1,0 +1,25 @@
+
+.odd,
+.odder {
+    font-family: Verdana, sans-serif;
+    background-color: #fb5656;
+
+
+}
+
+.odder {
+    font-size: 24px;
+    
+}
+
+#potato {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#potatoras {
+    font-weight: bold;
+    background-color: hsl(90, 100%, 66%);
+    font-size: 24px;
+
+}
